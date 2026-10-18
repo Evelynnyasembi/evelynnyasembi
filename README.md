@@ -75,17 +75,6 @@ I'm focused on advancing in **Data Science, Data Engineering, and Cloud Infrastr
 
 ---
 
-###  Software Development
-
-**[Third-Person Shooter Game | Unreal Engine & C++](https://github.com/Evelynnyasembi/Third-Person-Shooter)**
-
-`Unreal Engine` `C++` `Blueprints`
-
-- Developed a third-person shooter game using Unreal Engine, C++, and Blueprint visual scripting.
-- Implemented gameplay functionality, model preparation, scene configuration, and scripting.
-
----
-
 ## Professional Experience
 
 ### Metropolitan Transportation Authority (MTA)
