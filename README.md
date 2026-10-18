@@ -13,9 +13,9 @@ I'm focused on advancing in **Data Science, Data Engineering, and Cloud Infrastr
 
 ---
 
-## Featured Projects
+## 👩🏽‍💻 Featured Projects
 
-### Enterprise Application Development & Data Integration
+### 🏢 Enterprise Application Development & Data Integration
 
 **Enterprise Workflow Management & Analytics Platform**  
 `Power Apps` `Power Automate` `Power BI` `SharePoint` `Data Integration`
@@ -33,7 +33,7 @@ I'm focused on advancing in **Data Science, Data Engineering, and Cloud Infrastr
 
 ---
 
-### (Big Data) Machine Learning & Predictive Analytics
+### 🤖 Machine Learning & Predictive Analytics
 
 **[Airline Delay Prediction | PySpark & Google Cloud](https://github.com/Evelynnyasembi/Airline-Delay-Prediction)**
 
@@ -75,7 +75,7 @@ I'm focused on advancing in **Data Science, Data Engineering, and Cloud Infrastr
 
 ---
 
-## Professional Experience
+## 💼 Professional Experience
 
 ### Metropolitan Transportation Authority (MTA)
 **Transit Analyst | January 2025 – Present**
