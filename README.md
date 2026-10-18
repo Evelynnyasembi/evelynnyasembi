@@ -35,7 +35,7 @@ I'm focused on advancing in **Data Science, Data Engineering, and Cloud Infrastr
 
 ### 🤖 Machine Learning & Predictive Analytics
 
-**[Airline Delay Prediction | PySpark & Google Cloud](https://github.com/Evelynnyasembi/Airline-Delay-Prediction)**
+**[Airline Delay Prediction | PySpark & Google Cloud]([https://github.com/Evelynnyasembi/Airline-Delay-Prediction](https://github.com/Evelynnyasembi/Airline-Delay-Prediction)**
 
 `Python` `PySpark` `Google Cloud` `Machine Learning`
 
